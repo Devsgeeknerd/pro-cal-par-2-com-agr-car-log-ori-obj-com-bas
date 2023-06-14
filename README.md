@@ -1,5 +1,5 @@
 <!-- Título -->
-# Projeto Calculadora — Parte 2
+# Projeto — Calculadora - Parte 2
 
 ***Conteúdo do Projeto:***
 
