@@ -9,9 +9,10 @@
 * Foi criado dois atributos: `numero1` e `numero2` do tipo `private`;
 * Foi criado um construtor do tipo `public` e adicionado os parâmetros para receber os números;
 
-[CalculadorMatematico.](CalculadorMatematico.java)
-&nbsp;
-[CalculoMatematico.](CalculoMatematico.java)
+Ordem de criação dos arquivos:
+
+1. [CalculadorMatematico.](CalculadorMatematico.java)
+2. [CalculoMatematico.](CalculoMatematico.java)
 
 <!-- Informações -->
 ## &#8505; Informações
